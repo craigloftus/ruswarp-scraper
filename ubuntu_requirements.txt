@@ -1,0 +1,5 @@
+pptp-linux
+network-manager-pptp
+python-pip
+python-dev
+build-essential

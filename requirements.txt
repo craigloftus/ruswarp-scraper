@@ -1,0 +1,4 @@
+netifaces==0.10.4
+pymongo==2.7.2
+python-daemon==1.6.1
+selenium==2.44.0
